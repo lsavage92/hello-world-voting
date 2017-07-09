@@ -1,0 +1,24 @@
+{
+  "name": "hello-world-voting",
+  "version": "1.0.0",
+  "description": "Basic Ethereum voting DApp written in Solidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsavage92/hello-world-voting.git"
+  },
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "blockchain"
+  ],
+  "author": "Luke Savage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsavage92/hello-world-voting/issues"
+  },
+  "homepage": "https://github.com/lsavage92/hello-world-voting#readme"
+}
